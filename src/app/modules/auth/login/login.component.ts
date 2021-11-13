@@ -1,5 +1,4 @@
 import { Component} from '@angular/core';
-/* import { CONST_LOGIN_PAGE } from '@data/constants'; */
 
 @Component({
   selector: 'app-login',
@@ -9,7 +8,4 @@ import { Component} from '@angular/core';
 
 
 export class LoginComponent {
-
-/*   public data = CONST_LOGIN_PAGE;
- */
 }
